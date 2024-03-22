@@ -1,5 +1,3 @@
-# About MainHubManager
+# About 
 
 # Installation of development environnement
-
-## Comming soon
